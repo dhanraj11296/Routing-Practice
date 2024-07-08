@@ -1,0 +1,16 @@
+.aboutContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+.aboutImg {
+  width: 150px;
+}
+.aboutHeading {
+  color: #6d396b;
+}
+.aboutPara {
+  color: #555555;
+}

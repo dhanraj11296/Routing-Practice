@@ -1,0 +1,26 @@
+.headerContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logoTitleContainer {
+  display: flex;
+  align-items: center;
+}
+.logo {
+  width: 25px;
+  height: 25px;
+}
+.title {
+  color: #12022f;
+}
+.navItemsList {
+  display: flex;
+}
+.linkItem {
+  list-style-type: none;
+}
+.routeLink {
+  color: #12022f;
+  text-decoration: none;
+}
